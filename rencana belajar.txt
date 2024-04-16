@@ -1,0 +1,5 @@
+Rencana Belajar
+Belajar lebih dalam mengenai Github
+Belajar Machine Learning
+Belajar Neural Network
+Belajar Tensorflow
