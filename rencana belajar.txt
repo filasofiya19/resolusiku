@@ -1,9 +1,12 @@
 Rencana Belajar
-Belajar lebih dalam mengenai Github
-Belajar Machine Learning
-- Supervised Learning
-- Unsupervised Learning
-Belajar Neural Network
-- CNN
-- NLP
-Belajar Tensorflow
+- Belajar lebih dalam mengenai Github
+  * Git
+  * Github
+- Python
+- Belajar Machine Learning
+  * Supervised Learning
+  * Unsupervised Learning
+- Belajar Neural Network
+  * CNN
+  * NLP
+- Belajar Tensorflow
