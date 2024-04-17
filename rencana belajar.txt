@@ -1,5 +1,7 @@
 Rencana Belajar
 Belajar lebih dalam mengenai Github
 Belajar Machine Learning
+- Supervised Learning
+- Unsupervised Learning
 Belajar Neural Network
 Belajar Tensorflow
