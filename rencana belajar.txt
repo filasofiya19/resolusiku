@@ -1,4 +1,4 @@
-Rencana Belajar
+
 - Belajar lebih dalam mengenai Github
 - Belajar Machine Learning
   * Supervised Learning
