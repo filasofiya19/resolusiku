@@ -1,9 +1,10 @@
-
+lanjuran rencana belajar 2
 - Belajar lebih dalam mengenai Github
 - Belajar Machine Learning
   * Supervised Learning
   * Unsupervised Learning
   * Reinforcement Learning
+- Python
 - Belajar Neural Network
   * CNN
   * NLP
@@ -13,3 +14,5 @@
   * Dense
   * Layers
   * Sigmoid
+
+
