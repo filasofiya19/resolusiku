@@ -4,4 +4,6 @@ Belajar Machine Learning
 - Supervised Learning
 - Unsupervised Learning
 Belajar Neural Network
+- CNN
+- NLP
 Belajar Tensorflow
