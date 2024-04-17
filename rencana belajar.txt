@@ -1,4 +1,4 @@
-lanjuran rencana belajar 2
+Rencana belajar dan peningkatan skill
 - Belajar lebih dalam mengenai Github
 - Belajar Machine Learning
   * Supervised Learning
@@ -14,5 +14,6 @@ lanjuran rencana belajar 2
   * Dense
   * Layers
   * Sigmoid
+
 
 
